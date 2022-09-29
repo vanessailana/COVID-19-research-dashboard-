@@ -25,9 +25,17 @@ Given a list of papers create a report with the results of:
 -  Run the xml2csv.py  script to convert the XML files to a CSV format. (File is in the xml-to-csv directory) 
 - Merge the CSV's into one CSV with the mergecsv.py (File is in the xml-to-csv directory) 
 
-2. Generate groups of similar papers and assign a meaningful label or group of tags to each group. 
+Code: is is NLP-COVID-dashboard.ipynb
+2. Generate groups of similar papers and assign a meaningful label or group of tags to each group.
+- (We are using a K-Means algorithm and for dimensionality reduction Principal Componeny Analysis) 
+- Code: is in NLP-COVID-dashboard.ipynb
 
 3.  Outline what papers inside each group better represent that group.
+
+Interactive Dashboard to understand what papers are inside each group is in the covid-19_literature-dashboard.html. 
+You can hover over each cluster to see what papers are in that group. 
+
+
 
   
   
