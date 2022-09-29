@@ -36,6 +36,16 @@ Interactive Dashboard to understand what papers are inside each group is in the 
 You can hover over each cluster to see what papers are in that group. 
 
 
+## Concepts used
+
+KMEANS -  IT IS A UNSUPERVISED LEARNING ALGORITHM THAT IS USED TO SOLVE CLUSTERING PROBLEMS. 
+IT FOLLOWS A SIMPLE PROCEDURE OF CLASSIFYING A GIVEN DATA SET INTO A NUMBER OF CLUSTERS, DEFINED BY THE LETTER "K",
+WHICH IS FIXED BEFORE HAND.
+ELBOW METHOD - HEURISTIC METHOD FOR DETERMINING THE NUMBER OF CLUSTERS IN A  DATASET 
+PRINCIPAL COMPONENT ANALYSIS 
+T-distributed Stochastic Neighbourhood Embedding (tSNE)
+
+
 
   
   
