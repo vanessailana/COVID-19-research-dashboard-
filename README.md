@@ -21,11 +21,13 @@ https://github.com/midas-network/COVID-19/tree/master/documents/mendeley_library
 
 Given a list of papers create a report with the results of: 
 
-1.       Read the most recent MIDAS Mendeley paper library XML file. 
+1.  Read the most recent MIDAS Mendeley paper library XML file. 
+-  Run the xml2csv.py  script to convert the XML files to a CSV format. (File is in the xml-to-csv directory) 
+- Merge the CSV's into one CSV with the mergecsv.py (File is in the xml-to-csv directory) 
 
-2.       Generate groups of similar papers and assign a meaningful label or group of tags to each group. 
+2. Generate groups of similar papers and assign a meaningful label or group of tags to each group. 
 
-3.       Outline what papers inside each group better represent that group.
+3.  Outline what papers inside each group better represent that group.
 
   
   
