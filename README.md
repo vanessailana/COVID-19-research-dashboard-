@@ -28,22 +28,20 @@ Given a list of papers create a report with the results of:
 
 2. Generate groups of similar papers and assign a meaningful label or group of tags to each group.
 - (We are using a K-Means algorithm and for dimensionality reduction Principal Componeny Analysis) 
-- Code: is in NLP-COVID-dashboard.ipynb
+- Code: is in NLP_COVID-19_Dashboard.ipynb
 
 3.  Outline what papers inside each group better represent that group.
 
-Interactive Dashboard to understand what papers are inside each group is in the covid-19_literature-dashboard.html. 
+Interactive Dashboard to understand what papers are inside each group is in the 'Covid-19_Literature-Dashboard.html'. 
 You can hover over each cluster to see what papers are in that group. 
 
 
 ## Concepts used
 
-KMEANS -  IT IS A UNSUPERVISED LEARNING ALGORITHM THAT IS USED TO SOLVE CLUSTERING PROBLEMS. 
-IT FOLLOWS A SIMPLE PROCEDURE OF CLASSIFYING A GIVEN DATA SET INTO A NUMBER OF CLUSTERS, DEFINED BY THE LETTER "K",
-WHICH IS FIXED BEFORE HAND.
-ELBOW METHOD - HEURISTIC METHOD FOR DETERMINING THE NUMBER OF CLUSTERS IN A  DATASET 
-PRINCIPAL COMPONENT ANALYSIS 
-T-distributed Stochastic Neighbourhood Embedding (tSNE)
+KMEANS -  An unsupervised learning technique to solve clustering problems. 
+ELBOW METHOD - Heuristic method for determining the number of clusters in a dataset. 
+T-distributed Stochastic Neighbourhood Embedding (tSNE)  - It is an unspuervsied, non linear technique used for data exploration
+and visualizing high dimensional data.
 
 
 
